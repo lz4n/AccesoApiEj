@@ -1,6 +1,5 @@
-﻿using PeticionApi.Model;
+using PeticionApi.Model;
 using System.Net.Http.Json;
-using System.Text;
 using System.Text.Json;
 
 namespace PeticionApi
@@ -38,10 +37,6 @@ namespace PeticionApi
                 catch (InvalidOperationException ex)
                 {
                     Console.WriteLine($"Operación no válida: {ex.Message}");
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine($"Se ha producido una excepción no controlada: {ex.Message}");
                 }
             }
         }
