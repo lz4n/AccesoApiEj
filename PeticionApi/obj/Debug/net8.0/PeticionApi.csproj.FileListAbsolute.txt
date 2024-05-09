@@ -1,0 +1,14 @@
+C:\Users\izan\source\repos\PeticionApi\PeticionApi\bin\Debug\net8.0\PeticionApi.exe
+C:\Users\izan\source\repos\PeticionApi\PeticionApi\bin\Debug\net8.0\PeticionApi.deps.json
+C:\Users\izan\source\repos\PeticionApi\PeticionApi\bin\Debug\net8.0\PeticionApi.runtimeconfig.json
+C:\Users\izan\source\repos\PeticionApi\PeticionApi\bin\Debug\net8.0\PeticionApi.dll
+C:\Users\izan\source\repos\PeticionApi\PeticionApi\bin\Debug\net8.0\PeticionApi.pdb
+C:\Users\izan\source\repos\PeticionApi\PeticionApi\obj\Debug\net8.0\PeticionApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izan\source\repos\PeticionApi\PeticionApi\obj\Debug\net8.0\PeticionApi.AssemblyInfoInputs.cache
+C:\Users\izan\source\repos\PeticionApi\PeticionApi\obj\Debug\net8.0\PeticionApi.AssemblyInfo.cs
+C:\Users\izan\source\repos\PeticionApi\PeticionApi\obj\Debug\net8.0\PeticionApi.csproj.CoreCompileInputs.cache
+C:\Users\izan\source\repos\PeticionApi\PeticionApi\obj\Debug\net8.0\PeticionApi.dll
+C:\Users\izan\source\repos\PeticionApi\PeticionApi\obj\Debug\net8.0\refint\PeticionApi.dll
+C:\Users\izan\source\repos\PeticionApi\PeticionApi\obj\Debug\net8.0\PeticionApi.pdb
+C:\Users\izan\source\repos\PeticionApi\PeticionApi\obj\Debug\net8.0\PeticionApi.genruntimeconfig.cache
+C:\Users\izan\source\repos\PeticionApi\PeticionApi\obj\Debug\net8.0\ref\PeticionApi.dll
