@@ -33,11 +33,7 @@ namespace PeticionApi
                 catch (JsonException ex)
                 {
                     Console.WriteLine($"Error en la manipulación de JSON: {ex.Message}");
-                }
-                catch (InvalidOperationException ex)
-                {
-                    Console.WriteLine($"Operación no válida: {ex.Message}");
-                }
+                }            
             }
         }
     }
